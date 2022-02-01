@@ -139,3 +139,8 @@ Pokemon = DEWPIDER,10
 LoseText = "Nice battle."
 Pokemon = RIOLU,8
 Pokemon = STUFFUL,10
+#-------------------------------
+[ROCKER,Napster]
+LoseText = "You rock!"
+Pokemon = PICHU,7
+Pokemon = CHATOT,9
