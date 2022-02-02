@@ -10,6 +10,11 @@ SurfBGM = Surfing.mid
 BicycleBGM = Bicycle.mid
 PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
 PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerC = POKEMONTRAINER_Ethan,trainer_POKEMONTRAINER_Ethan,ethan_bike,ethan_surf,ethan_run,ethan_surf,ethan_fish_offset,ethan_fish_offset
+PlayerD = POKEMONTRAINER_Lyra,trainer_POKEMONTRAINER_Lyra,lyra_bike,lyra_surf,lyra_run,lyra_surf,lyra_fish_offset,lyra_fish_offset
+PlayerE = POKEMONTRAINER_Brendan,trainer_POKEMONTRAINER_Brendan,brendan_bike,brendan_surf,brendan_run,brendan_surf,brendan_fish_offset,brendan_fish_offset
+PlayerF = POKEMONTRAINER_May,trainer_POKEMONTRAINER_May,may_bike,may_surf,may_run,may_surf,may_fish_offset,may_fish_offset
+PlayerG = POKEMONTRAINER_Koi,trainer_POKEMONTRAINER_Koi,koi_bike,koi_surf,koi_run,koi_surf,koi_fish_offset,koi_fish_offset
 #-------------------------------
 [001]
 # Intro
