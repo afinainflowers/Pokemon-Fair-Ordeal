@@ -170,7 +170,7 @@ module QuestModule
   }
   
   # Gym sidequest
-  QuestFO2 = {
+  QuestFO1 = {
     :ID => "17",
     :Name => "Bullying prevention",
     :QuestGiver => "Inner monologue",

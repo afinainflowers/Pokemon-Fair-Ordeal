@@ -125,7 +125,7 @@ Pokemon = KECLEON,10
     Moves = TAILWHIP,LICK,SCRATCH,FEINT
     Ball = FRIENDBALL
 #-------------------------------
-[ROCKER,Ton]
+[ROCKER,Napster]
 LoseText = "Oh shocks."
 Pokemon = JOLTIK,6
 Pokemon = SHINX,6
@@ -140,7 +140,8 @@ LoseText = "Nice battle."
 Pokemon = RIOLU,8
 Pokemon = STUFFUL,10
 #-------------------------------
-[ROCKER,Napster]
+[ROCKER,TonTon]
 LoseText = "You rock!"
 Pokemon = PICHU,7
 Pokemon = CHATOT,9
+Pokemon = MAGNEMITE,12
