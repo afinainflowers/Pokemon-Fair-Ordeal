@@ -225,7 +225,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-BattleBack = indoor1_bg.png
+BattleBack = indoor1
 #-------------------------------
 [043]
 # Beetleaf Farm
@@ -266,7 +266,7 @@ Environment = Rock
 Outdoor = false
 ShowArea = true
 Bicycle = false
-BattleBack = indoor_bg1.png
+BattleBack = indoor1
 #-------------------------------
 [049]
 # Rock Cave
