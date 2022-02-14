@@ -311,3 +311,12 @@ Land,21
     20,SILICOBRA,7,10
     10,PANCHAM,7,10
     10,HAWLUCHA,7,10
+#-------------------------------
+[076] # Brightwood beginnings
+Land,21
+    20,SUNKERN,3,7
+    20,SUNFLORA,5,12
+    20,BOUNSWEET,7,12
+    20,SILICOBRA,7,10
+    10,PANCHAM,7,10
+    10,HAWLUCHA,7,10
