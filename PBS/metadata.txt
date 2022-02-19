@@ -229,7 +229,11 @@ BattleBack = indoor1
 #-------------------------------
 [043]
 # Beetleaf Farm
+Outdoor = true
 Bicycle = true
+BattleBack = field
+WildBattleBGM = Triple Triad.mid
+Environment = TallGrass
 #-------------------------------
 [044]
 # Route 6
@@ -418,3 +422,11 @@ MapPosition = 0,12,10
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[076]
+# Brightwood Beginnings
+Outdoor = true
+Bicycle = true
+BattleBack = forest
+WildBattleBGM = DPPT 011 Battle! Wild Pokémon.ogg
+Environment = ForestGrass
