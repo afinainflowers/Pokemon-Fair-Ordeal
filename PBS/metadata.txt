@@ -118,6 +118,12 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]
+# Chestnut Village
+Outdoor = true
+ShowArea = false
+BattleBack = field
+#-------------------------------
 [023]
 # Lerucean Town
 Outdoor = true
