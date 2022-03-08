@@ -315,7 +315,8 @@ Land,21
 [076] # Brightwood beginnings
 Land,21
     20,SPINARAK,8,10
-    20,JOLTIK,8,10
+    10,JOLTIK,8,10
+    10,SEEDOT,8,10
     20,BUNNELBY,8,12
     10,DEERLING,8,10
     10,PIDGEY,8,10
